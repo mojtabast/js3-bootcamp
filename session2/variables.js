@@ -14,7 +14,7 @@
 // const num = 10;
 // num = 20;
 
-// let counter = 0;
+let counter = 0;
 
 // counter = counter + 1
 // counter = counter + 1
@@ -40,7 +40,7 @@
 // Show age (one-line comment)
 const age = 10 + 15;
 
-/*
+/* 
 line 1
 line 2
 Show age 2

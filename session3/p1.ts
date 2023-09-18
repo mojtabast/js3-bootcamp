@@ -1,0 +1,2 @@
+const day = 2;
+
